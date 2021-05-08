@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FMS_1.0</string>
+    <string name="TV_Header">COUNTRIES</string>
+    <string name="btn_Get">Get</string>
+</resources>
