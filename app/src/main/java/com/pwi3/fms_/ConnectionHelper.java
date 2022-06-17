@@ -22,10 +22,10 @@ public class ConnectionHelper {
     {
 
         // Declaring Server ip, username, database name and password
-        ip = "192.168.40.176";
-        db = "PWIERP";
-        DBUserNameStr = "sa";
-        DBPasswordStr = "!Q@W#E";
+        ip = "192.168.**.***";
+        db = "PWI***";
+        DBUserNameStr = "****";
+        DBPasswordStr = "****";
         // Declaring Server ip, username, database name and password
 
 
